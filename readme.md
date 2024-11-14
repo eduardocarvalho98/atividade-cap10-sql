@@ -44,7 +44,7 @@ Para executar o projeto, siga os seguintes passos:
 1. Clone este repositório para o seu ambiente local.
 2. Utilize um SGBD (Sistema de Gerenciamento de Banco de Dados) compatível, como MySQL ou PostgreSQL.
 3. Execute o script `create_tables.sql` para criar as tabelas no banco de dados.
-4. Utilize o arquivo `consultas_sql.sql` para executar as consultas e obter os resultados desejados.
+4. Utilize o arquivo `queries.sql` para executar as consultas e obter os resultados desejados.
 
 ## Tecnologias Utilizadas
 
